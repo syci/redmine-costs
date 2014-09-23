@@ -1,4 +1,4 @@
-OpenProject Costs Plugin
+Redmine Costs Plugin (OpenProject Migration)
 ===========================
 
 This Plugin adds features for planning and tracking costs of projects. Budgets can be created containing the planned unit costs and labor costs. The actual costs can be assigned to the different work packages and planned and actual costs can be compared.
@@ -45,32 +45,3 @@ from the file `Gemfile.plugins` and run:
 
 Please not that this leaves plugin data in the database. Currently, we do not support full uninstall of the plugin.
 
-
-Bug Reporting
--------------
-
-If you find any bugs, you can create a bug ticket at
-
-https://www.openproject.org/projects/costs-plugin
-
-
-Development
------------
-
-To contribute, you can create pull request on the official repository at
-`https://github.com/finnlabs/openproject-costs`
-
-
-Credits
--------
-
-Special thanks go to
-
-* Deutsche Telekom AG (opensource@telekom.de) for project sponsorship
-
-Licence
--------
-
-Copyright (C) 2009 - 2014 the OpenProject Foundation (OPF)
-
-This plugin is licensed under the GNU GPL v3. See doc/COPYRIGHT.md and doc/GPL.txt for details.
